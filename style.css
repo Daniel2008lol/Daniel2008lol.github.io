@@ -1,0 +1,83 @@
+body {
+color: goldenrod;
+  
+  background-image: url("https://miro.medium.com/max/1400/1*rtnCoyof36bQxnpWaH8yWg.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100% 210%;
+}
+
+h1 {
+  color: darkred; 
+  text-shadow: 4px 4px 4px goldenrod;
+  font-family: Impact, Charcoal, sans-serif;
+  text-align: center
+}
+p {font-family: Arial, Helvetica, sans-serif;
+ 
+
+
+
+}
+
+#link{display: flex;
+justify-content: space-evenly;
+  font-family: Impact, Charcoal, sans-serif;
+  border: 3px solid darkred;}
+
+background{
+  height: 100%;
+  background-image:; 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img {
+  border: 5px solid darkred;
+  border-style: inset;
+  border-color: darkred
+}
+.left{
+  border: 5px solid goldenrod;
+  border-style: inset;
+  
+}
+table.magie, td{
+  border: 5px solid darkred;
+  border-collapse: collapse;}
+.tekst{
+ color: darkred; 
+  text-shadow: 4px 4px 4px goldenrod;
+  font-family: Impact, Charcoal, sans-serif;
+  text-align: center
+}
+a{
+  color: goldenrod; 
+  font-family: Impact, Charcoal, sans-serif;
+}
+iframe{
+  border: 5px solid goldenrod;
+  border-style: inset;
+}
+li{
+  color: darkred; 
+  font-family: Impact, Charcoal, sans-serif;
+  text-align: center;
+}
+.right{
+  float: right;
+}
+.afbeelding{
+  background-size: 100% 950%;
+}
+.afbeelding1{
+  background-size: 100% 100%;
+}
+.afbeelding2{
+  background-size: 100% 250%;
+
+}
